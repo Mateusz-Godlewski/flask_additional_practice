@@ -1,0 +1,154 @@
+/* DIVS =======================================================*/
+
+div {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #d7c1be;
+    margin: 0;
+}
+
+.top-container {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin: 0;
+}
+
+.all-rows {
+    padding-top: 0;
+    padding-bottom: 0;
+    text-align: left;
+    margin: 0 auto 0 auto;
+}
+
+.about-me {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    text-align: center;
+    background-color: #e4d3cf;
+}
+
+.music-production {
+    padding-left: 25%;
+    padding-right: 25%;
+    margin: 0;
+}
+
+.stock-market {
+    background-color: #e4d3cf;
+    text-align: right;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.contact {
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: left;
+}
+
+.foot {
+    padding: 10px;
+    background-color: #b67162;
+    text-align: center;
+}
+
+/* HTML TAGS ====================================================*/
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 6.5rem;
+    font-family: 'Titillium Web', sans-serif;
+    position: relative;
+    width: 100%;
+    padding: 30px;
+    padding-top: 120px;
+    margin: 0 auto 0 auto;
+}
+
+h2 {
+    font-family: 'Titillium Web', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+h3 {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+p {
+    margin-bottom: 0;
+    padding: 20px;
+}
+
+/* CLASSES ===================================================================*/
+
+.subtitle {
+    font-size: 3rem;
+    padding-bottom: 40px;
+}
+
+.email {
+    background-color: #b67162;
+}
+
+.hello-there {
+    padding: 0;
+}
+
+.listen:hover {
+    background-color: #b67162;
+}
+
+.listen:link {
+    background-color: #c1adab;
+    color: black;
+}
+
+.listen:visited {
+    color: black;
+}
+
+.listen:active {
+    background-color: #c1adab;
+}
+
+.pro {
+    text-decoration: underline;
+}
+/* IMAGES =================================================== */
+
+.mountain {
+    width: 800px;
+    height: 400px;
+    padding-bottom: 100px;
+}
+
+.monitor-screen {
+    float: left;
+    width: 256px;
+}
+
+.music-png {
+    float: right;
+    width: 256px;
+}
+
+.telephone {
+    float: right;
+    width: 256px;
+}
+
+.my-image {
+    padding: 20px;
+    border-radius: 50%;
+
+}
